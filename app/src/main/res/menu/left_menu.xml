@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:icon="@mipmap/logo_googleplus"
+        android:id="@+id/google"
+        android:title="Google+" />
+    <item
+        android:icon="@mipmap/ic_launcher"
+        android:id="@+id/photo"
+        android:title="照片" />
+    <item
+        android:icon="@mipmap/logo_googleplus"
+        android:id="@+id/photos"
+        android:title="相册" />
+    <item
+        android:icon="@mipmap/logo_googleplus"
+        android:id="@+id/texiao"
+        android:title="自动特效" />
+    <item
+        android:icon="@mipmap/logo_googleplus"
+        android:id="@+id/voide"
+        android:title="视频" />
+    <item
+        android:icon="@mipmap/logo_googleplus"
+        android:id="@+id/filder"
+        android:title="文件夹" />
+</menu>
